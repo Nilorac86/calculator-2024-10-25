@@ -1,9 +1,9 @@
 alert ("Välkommen till kalkylatorn!");
 
 
-let firstNumber = +prompt("Skriv in ett valfritt tal.");
-let secondNumber = +prompt ("skriv in ett valfritt tal till.");
-let operator = prompt ("Välj mellan +, -, * eller / för att räkna ihop dina tal.");
+const firstNumber = +prompt("Skriv in ett valfritt tal.");
+const secondNumber = +prompt ("skriv in ett valfritt tal till.");
+const operator = prompt ("Välj mellan +, -, * eller / för att räkna ihop dina tal.");
 
 
 
